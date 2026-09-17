@@ -1,1 +1,9 @@
-# Programming-assignment-4
+# ECE 2112 - EXPERIMENT 4: EXPERIMENT 4: DATA WRANGLING AND DATA VISUALIZATION
+
+HUIT, THIMOTY JOSHUA O.
+
+2ECE-B
+
+09/17/2026
+
+## Objective of this activity
